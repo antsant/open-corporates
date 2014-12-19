@@ -1,7 +1,7 @@
 {
-  "bot_id": "mission_748",
-  "title": "Finance Licences (Banking) - Bank of Guyana",
-  "description": "Scrapes and transforms http://nbt.tj/en/banking_system/credit_org.php into open data",
+  "bot_id": "mission_795",
+  "title": "Finance Licences (Banking) - National Bank of the Republic of Tajikistan",
+  "description": "Scraper to transform http://nbt.tj/en/banking_system/credit_org.php into open data",
   "language": "python",
   "data_type": "primary data",
   "identifying_fields": [
